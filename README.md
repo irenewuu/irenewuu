@@ -29,8 +29,8 @@ I am a frontend developer with UX/UI design knowledge, residing in Vancouver, BC
 
 
 ### Connect with me!💡
-[![Website](https://img.shields.io/badge/-portfolio-2C425D?style=for-the-badge&logo=appveyor&logoColor=fff)](www.rostrae.ca)
-[![Linkedin](https://img.shields.io/badge/-linkedin-515575?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/irenewuu)
+[![Website](https://img.shields.io/badge/-portfolio-2C425D?style=for-the-badge&logo=appveyor&logoColor=fff)](https://www.rostrae.ca)
+[![Linkedin](https://img.shields.io/badge/-linkedin-515575?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/irenewuu)
 [![Gmail](https://img.shields.io/badge/-irenewu222@gmail.com-715A77?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:irenewu222@gmail.com)
 [![Instagram](https://img.shields.io/badge/-instagram-915F78?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/irene_jpg/)
 [![Discord](https://img.shields.io/badge/-discord-b56576?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/141393990594330624)
