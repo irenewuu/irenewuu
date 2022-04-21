@@ -1,7 +1,7 @@
 ### Hi, I'm Irene👋 
 I am a frontend developer with UX/UI design knowledge, residing in Vancouver, BC. I have two years of experience in closely collaborating with teams in developing interactive and responsive cross-platform web applications.
 
-### My Tools🔧
+### Tools🔧
 ![JavaScript](https://img.shields.io/badge/-javascript-0d1117?logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/-jquery-0d1117?logo=jquery&logoColor=0769AD)
 ![HTML5](https://img.shields.io/badge/-html-0d1117?logo=html5&logoColor=E34F26)
@@ -26,6 +26,9 @@ I am a frontend developer with UX/UI design knowledge, residing in Vancouver, BC
 
 ![Figma](https://img.shields.io/badge/-figma-0d1117?logo=figma&logoColor=F24E1E)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-adobe_creative_cloud-0d1117?logo=adobe%20creative%20cloud&logoColor=DA1F26)
+
+### Stats📈
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irenewuu&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![irenewuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenewuu&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide=stars&hide_border=true)
 
 
 ### Connect with me!💡
