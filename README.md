@@ -3,6 +3,7 @@ I am a frontend developer with UX/UI design knowledge, residing in Vancouver, BC
 
 ### Tools🔧
 ![JavaScript](https://img.shields.io/badge/-javascript-0d1117?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-typescript-0d1117?logo=typescript&logoColor=3178C6)
 ![jQuery](https://img.shields.io/badge/-jquery-0d1117?logo=jquery&logoColor=0769AD)
 ![HTML5](https://img.shields.io/badge/-html-0d1117?logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-css-0d1117?logo=css3&logoColor=1572B6)
